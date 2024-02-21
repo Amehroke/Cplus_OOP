@@ -143,8 +143,8 @@ int main() {
     Developer D = Developer("Sunny", "YT-CodeBeauty", 25, "C++");
     Teacher T = Teacher("Frank", "Cool School", 35, "History");
 
-    // D.Work();
-    // T.Work();
+    D.Work();
+    T.Work();
 
     // The most common use of polymorphism is when a parent class reference ...
     // is used to refer to a child class object
