@@ -11,4 +11,5 @@ This course covers the following key topics:
 - Inheritance
 - Polymorphism
 - Encapsulation
+- Operator Overloading
 - Abstraction
